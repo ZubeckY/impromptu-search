@@ -1,0 +1,12 @@
+#elastic {
+    display: block;
+}
+.text-center {
+    text-align: center;
+}
+.elastic li {
+    transition: all ease 500ms;
+}
+.hide {
+    display: none;
+}
